@@ -1,15 +1,19 @@
 [
     {
         "name": "Excel",
-        "icon": "https://icons8.com/icon/12421/microsoft-excel"
+        "icon": "https://img.icons8.com/metro/26/null/ms-excel.png"
     },
     {
         "name": "Power Point",
-        "icon": "https://icons8.com/icon/12415/microsoft-powerpoint"
+        "icon": "https://img.icons8.com/metro/26/null/powerpoint.png"
     },
     {
         "name": "Word",
-        "icon": "https://icons8.com/icon/12420/microsoft-word"
+        "icon": "https://img.icons8.com/metro/26/null/ms-word.png"
+    },
+    {
+        "name": "SAP",
+        "icon": "https://img.icons8.com/metro/26/null/certificate.png"
     },
    
 ]
