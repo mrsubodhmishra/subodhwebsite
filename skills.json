@@ -1,11 +1,11 @@
 [
     {
         "name": "Excel",
-        "icon": "https://img.icons8.com/nolan/128/ms-excel.png"
+        "icon": "https://img.icons8.com/nolan/48/ms-excel.png"
     },
     {
         "name": "Power Point",
-        "icon": "https://img.icons8.com/officel/16/null/microsoft-powerpoint-2019.png"
+        "icon": "https://img.icons8.com/officel/48/null/microsoft-powerpoint-2019.png"
     },
     {
         "name": "SAP",
@@ -17,7 +17,7 @@
     },
     {
         "name": "AR (Amugement Realtiy)",
-        "icon": "https://img.icons8.com/external-filled-outline-design-circle/100/null/external-audience-growth-marketing-filled-outline-design-circle.png"
+        "icon": "https://img.icons8.com/external-filled-outline-design-circle/48/null/external-audience-growth-marketing-filled-outline-design-circle.png"
     },
     {
         "name": "Android",
