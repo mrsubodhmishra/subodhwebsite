@@ -1,23 +1,23 @@
 [
     {
         "name": "Excel",
-        "icon": "https://img.icons8.com/metro/26/null/ms-excel.png"
+        "icon": "https://img.icons8.com/nolan/128/ms-excel.png"
     },
     {
         "name": "Power Point",
-        "icon": "https://img.icons8.com/metro/26/null/powerpoint.png"
-    },
-    {
-        "name": "Word",
-        "icon": "https://img.icons8.com/metro/26/null/ms-word.png"
+        "icon": "https://img.icons8.com/officel/16/null/microsoft-powerpoint-2019.png"
     },
     {
         "name": "SAP",
-        "icon": "https://img.icons8.com/metro/26/null/certificate.png"
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Word",
+        "icon": "https://img.icons8.com/color/48/null/microsoft-word-2019--v2.png"
+    },
+    {
+        "name": "AR (Amugement Realtiy)",
+        "icon": "https://img.icons8.com/external-filled-outline-design-circle/100/null/external-audience-growth-marketing-filled-outline-design-circle.png"
     },
     {
         "name": "Android",
@@ -40,8 +40,8 @@
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "C",
+        "icon": "https://img.icons8.com/external-filled-outline-design-circle/100/null/external-cloud-computing-growth-marketing-filled-outline-design-circle.png"
     },
     {
         "name": "HTML5",
