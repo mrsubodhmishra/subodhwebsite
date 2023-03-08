@@ -10,9 +10,39 @@
     }
   },
   {
-    "name": "ABC Treaking",
-    "desc": "Annapurna Base Camp at the height of 4130m (13546ft.)",
-    "image": "ABC",
+    "name": "ABC Group",
+    "desc": "We are there group of 7 people five of our group and 2 of next. Subodh, Lokesh, Rishi, Riya, Sushma, Anup &  Ujjwal ",
+    "image": "ABC1",
+    "category": "ABC",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+  {
+    "name": "ABC Blur",
+    "desc": "Most liked photo by me and its clicked while returning from Deurali ",
+    "image": "ABC3",
+    "category": "ABC",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+   {
+    "name": "ABC Blur",
+    "desc": "Click from Deurali ",
+    "image": "ABC2",
+    "category": "ABC",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+   {
+    "name": "ABC Blur",
+    "desc": "First snow Valley ",
+    "image": "LS",
     "category": "ABC",
     "links": {
       "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
@@ -29,10 +59,50 @@
       "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
     }
   },
+   {
+    "name": "ABC Treaking",
+    "desc": "Annapurna Base Camp at the height of 4130m (13546ft.)",
+    "image": "ABC",
+    "category": "ABC",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
   {
     "name": "Tilicho Treak",
     "desc": "Tilicho Lake Trek is one of the most beautiful and exciting short treks one can do in Nepal. It lies in Manang (Annapurna Circuit Region), and a lot of people take it as a side-trip while trekking the Annapurna Circuit.",
     "image": "Tilicho",
+    "category": "TL",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+  {
+    "name": "Tilicho Phoong Jharna",
+    "desc": "Phoong Jharna mesmarasing waterfall",
+    "image": "TILF",
+    "category": "TL",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+  {
+    "name": "Tilicho Lord Shiva",
+    "desc": "Happy to see the idol of lord Shiva",
+    "image": "TIL",
+    "category": "TL",
+    "links": {
+      "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
+      "code": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/"
+    }
+  },
+  {
+    "name": "Tilicho Octopus Jharna",
+    "desc": " Ever seen large waterfall with such view",
+    "image": "OP",
     "category": "TL",
     "links": {
       "view": "https://www.linkedin.com/in/subodh-mishra-0a845a19a/",
