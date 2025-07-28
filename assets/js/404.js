@@ -6,7 +6,7 @@ $(document).ready(function(){
     });
 });
 
-// disable developer mode
+// disable developer mode hahah
 document.onkeydown = function(e) {
   if(e.keyCode == 123) {
      return false;
